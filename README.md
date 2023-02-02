@@ -7,3 +7,15 @@ In many situations, they may be instead choosing out of a set with more than two
 To address these situations, we need a choice-model which allows an individual to express a set-valued choice. Choice functions provide such a mathematical framework. This is a Python implementation of a Gaussian Process model to learn choice functions from choice-data. The proposed model assumes a multiple utility representation of a choice function based on the concept of Pareto rationalization, and derives a strategy to learn both the number and the values of these latent multiple utilities.
 
 See notebooks for examples about how to use this library.
+
+Please if you use this software, cite it as
+
+@misc{choicegp2023,
+  doi = {10.48550/ARXIV.2302.00406},  
+  url = {https://arxiv.org/abs/2302.00406},
+    author = {Benavoli, Alessio and Azzimonti, Dario and Piga, Dario},
+  title = {Learning Choice Functions with Gaussian Processes},
+    publisher = {arXiv},
+    year = {2023},
+}
+
