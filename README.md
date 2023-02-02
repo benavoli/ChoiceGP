@@ -12,7 +12,7 @@ Please if you use this software, cite it as
 
 @misc{choicegp2023,
   doi = {10.48550/ARXIV.2302.00406},  
-  url = {https://arxiv.org/abs/2302.00406},
+  url = { https://arxiv.org/abs/2302.00406 },
     author = {Benavoli, Alessio and Azzimonti, Dario and Piga, Dario},
   title = {Learning Choice Functions with Gaussian Processes},
     publisher = {arXiv},
