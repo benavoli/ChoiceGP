@@ -10,7 +10,7 @@ See notebooks for examples about how to use this library.
 
 Please if you use this software, cite it as
 
-@inproceedings{maua2013a,
+@inproceedings{benavoli2023,
 title = {Learning Choice Functions with Gaussian Processes},
 author = {Benavoli, Alessio and Azzimonti, Dario and Piga, Dario},
 url = {[http://www.idsia.ch/~alessio/maua2013a.pdf](https://arxiv.org/abs/2302.00406)},
