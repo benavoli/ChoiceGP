@@ -13,7 +13,7 @@ Please if you use this software, cite it as
 @inproceedings{CHoiceGP2023,
 title = {Learning Choice Functions with Gaussian Processes},
 author = {Benavoli, Alessio and Azzimonti, Dario and Piga, Dario},
-url = {https://arxiv.org/abs/2302.00406},
+url = { https://arxiv.org/abs/2302.00406 },
 year = {2023},
 booktitle = {Proceedings of the 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)},
 pages = {},
