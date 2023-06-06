@@ -10,7 +10,7 @@ See notebooks for examples about how to use this library.
 
 Please if you use this software, cite it as
 
-@inproceedings{benavoli2023,
+@inproceedings{CHoiceGP2023,
 title = {Learning Choice Functions with Gaussian Processes},
 author = {Benavoli, Alessio and Azzimonti, Dario and Piga, Dario},
 url = {https://arxiv.org/abs/2302.00406},
